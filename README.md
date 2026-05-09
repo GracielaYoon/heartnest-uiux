@@ -9,7 +9,7 @@ HeartNest is a daily support and reminder app designed for all ages.
 - Easy navigation
 
 ## Figma Prototype
-[Paste your Figma link here](https://www.figma.com/design/78a4CVAt3FwrBTOj27Lg9w/HeartNest-SelfCare-?m=auto&t=jqCY5QpKRg6md4wX-6)
+[My Figma Link](https://www.figma.com/design/78a4CVAt3FwrBTOj27Lg9w/HeartNest-SelfCare-?m=auto&t=jqCY5QpKRg6md4wX-6)
 
 ## Designer
 Yoon Yati Lwin
